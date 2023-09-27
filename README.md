@@ -29,20 +29,20 @@ This is a simple Contact Management System implemented in Python using the Tkint
 
 ## How to Use
 
-1. Clone this repository to your local machine.
+   1. Clone this repository to your local machine.
 
-   ```bash
-   git clone https://github.com/Malaiappan59/contact-management-system.git
+      ```bash
+      git clone https://github.com/Malaiappan59/contact-management-system.git
 
-2.Navigate to the project directory.
+   2. Navigate to the project directory.
 
-   ```bash
-   cd contact-management-system
+      ```bash
+      cd contact-management-system
 
-3. Run the Python script.
+   3. Run the Python script.
 
-   ```bash
-   python contact_management.py
+      ```bash
+      python contact_management.py
 
 
 ## Hint
