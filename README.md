@@ -7,21 +7,28 @@ This is a simple Contact Management System implemented in Python using the Tkint
 ###  1. **User-Friendly Interface**
 
     - The GUI provides a user-friendly interface that makes it easy to add and remove contacts.
+    
     - The responsive design ensures a seamless experience across different window sizes.
+    
 
 ###  2. **Contact Storage**
 
     - Contacts are stored in a Python dictionary, making it easy to access and manipulate contact information.
+    
 
 ###  3. **Add and Remove Contacts**
 
     - You can add new contacts by entering the name and phone number and clicking the "Add Contact" button.
+    
     - Removing contacts is as simple as selecting a contact from the list and clicking the "Remove Contact" button.
+    
 
 ###  4. **List View**
 
     - The list view displays all your contacts in a clear and organized manner.
+    
     - Contacts are displayed in the format "Name: Phone Number" for easy identification.
+    
 
 ###  5. **Customizable Styling**
 
