@@ -1,4 +1,4 @@
-## contact-management-system
+# Contact-management-system
 
 This is a simple Contact Management System implemented in Python using the Tkinter library for the graphical user interface (GUI). This system allows you to manage your contacts by adding and removing entries with names and phone numbers.
 Features and Benefits
@@ -29,29 +29,31 @@ Features and Benefits
 
 ## How to Use
 
-<b> Clone this repository to your local machine.</b>
-
-<i> git clone https://github.com/your-username/contact-management-system.git </i>
-
-
-<b> Navigate to the project directory. </b>
-
-<i> cd contact-management-system </i>
+    1. Clone this repository to your local machine.
+   
+        ```bash
+        git clone https://github.com/your-username/contact-management-system.git </i>
 
 
-<b> Run the Python script.</b>
+    2. Navigate to the project directory.
+    
+        ```bash
+        cd contact-management-system
 
-<i> python contact_management.py </i>
+
+    3. Run the Python script.
+    
+        ```bash
+        python contact_management.py
 
 
+## Hint: 
+- Use the graphical interface to add, remove, and manage your contacts.
 
+## Contributions
 
-<b><i> Hint: Use the graphical interface to add, remove, and manage your contacts. </i></b>
+- Contributions are welcome! If you have any ideas for improvements, additional features, or bug fixes, feel free to open an issue or submit a pull request.
 
-<b> Contributions </b>
+## License 
 
-Contributions are welcome! If you have any ideas for improvements, additional features, or bug fixes, feel free to open an issue or submit a pull request.
-
-<b> License </b>
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+- This project is licensed under the MIT License - see the LICENSE file for details.
