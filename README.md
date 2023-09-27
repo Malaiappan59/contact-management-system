@@ -44,12 +44,12 @@ Features and Benefits
 <i> python contact_management.py </i>
 
 
-# Hint: Use the graphical interface to add, remove, and manage your contacts.
+<b><i> Hint: Use the graphical interface to add, remove, and manage your contacts. </i></b>
 
-# Contributions
+<b> Contributions </b>
 
 Contributions are welcome! If you have any ideas for improvements, additional features, or bug fixes, feel free to open an issue or submit a pull request.
 
-# License
+<b> License </b>
 
 This project is licensed under the MIT License - see the LICENSE file for details.
